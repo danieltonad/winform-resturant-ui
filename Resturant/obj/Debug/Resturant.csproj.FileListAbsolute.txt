@@ -1,0 +1,14 @@
+C:\Users\USER\documents\visual studio 2015\Projects\Resturant\Resturant\obj\Debug\Resturant.eat.resources
+C:\Users\USER\documents\visual studio 2015\Projects\Resturant\Resturant\obj\Debug\Resturant.Form1.resources
+C:\Users\USER\documents\visual studio 2015\Projects\Resturant\Resturant\obj\Debug\Resturant.home.resources
+C:\Users\USER\documents\visual studio 2015\Projects\Resturant\Resturant\obj\Debug\Resturant.login.resources
+C:\Users\USER\documents\visual studio 2015\Projects\Resturant\Resturant\obj\Debug\Resturant.main.resources
+C:\Users\USER\documents\visual studio 2015\Projects\Resturant\Resturant\obj\Debug\Resturant.Properties.Resources.resources
+C:\Users\USER\documents\visual studio 2015\Projects\Resturant\Resturant\obj\Debug\Resturant.csproj.GenerateResource.Cache
+C:\Users\USER\documents\visual studio 2015\Projects\Resturant\Resturant\bin\Debug\Resturant.exe.config
+C:\Users\USER\documents\visual studio 2015\Projects\Resturant\Resturant\bin\Debug\Resturant.exe
+C:\Users\USER\documents\visual studio 2015\Projects\Resturant\Resturant\bin\Debug\Resturant.pdb
+C:\Users\USER\documents\visual studio 2015\Projects\Resturant\Resturant\obj\Debug\Resturant.exe
+C:\Users\USER\documents\visual studio 2015\Projects\Resturant\Resturant\obj\Debug\Resturant.pdb
+C:\Users\USER\documents\visual studio 2015\Projects\Resturant\Resturant\obj\Debug\Resturant.signup.resources
+C:\Users\USER\documents\visual studio 2015\Projects\Resturant\Resturant\obj\Debug\Resturant.csprojResolveAssemblyReference.cache
